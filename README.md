@@ -62,28 +62,6 @@
 
 **Explore my repositories:** [github.com/noorfattiimaa](https://github.com/noorfattiimaa)
 
----
-
-## 🎯 Current Focus
-
-- 🤖 **Generative AI & LLMs:** Building AI-powered applications using modern LLM APIs
-- 🌐 **Full-Stack Development:** Creating end-to-end web solutions with Next.js and FastAPI
-- 📚 **Continuous Learning:** Exploring emerging AI technologies and best practices in software engineering
-- 🔬 **Research Interests:** AI applications, intelligent systems, and innovative tech solutions
-
----
-
-## 🌱 Technical Interests
-
-- Generative AI and Large Language Models (LLMs)
-- AI-Powered Applications Development
-- Full-Stack Web Development
-- Machine Learning & Deep Learning
-- Software Architecture & Design Patterns
-- Open Source Contributions
-- Emerging Technologies & Innovation
-
----
 
 <div align="center">
 
